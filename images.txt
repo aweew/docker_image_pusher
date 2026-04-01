@@ -7,4 +7,6 @@ xhofe/alist:latest
 cloudflare/cloudflared:latest
 snowdreamtech/frps:latest
 snowdreamtech/frpc:latest
+canal-server:v1.1.7
+
 teamsrunner/mysql-mcp-server:latest
