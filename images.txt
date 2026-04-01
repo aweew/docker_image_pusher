@@ -8,4 +8,4 @@ cloudflare/cloudflared:latest
 snowdreamtech/frps:latest
 snowdreamtech/frpc:latest
 
-teamsrunner/mysql-mcp-server:latest
+ghcr.io/askdba/mysql-mcp-server:latest
