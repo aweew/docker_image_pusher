@@ -9,3 +9,4 @@ snowdreamtech/frps:latest
 snowdreamtech/frpc:latest
 
 ghcr.io/askdba/mysql-mcp-server:latest
+writenotenow/mysql-mcp:latest
