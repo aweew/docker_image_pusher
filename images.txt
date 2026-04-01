@@ -7,3 +7,4 @@ xhofe/alist:latest
 cloudflare/cloudflared:latest
 snowdreamtech/frps:latest
 snowdreamtech/frpc:latest
+teamsrunner/mysql-mcp-server:latest
